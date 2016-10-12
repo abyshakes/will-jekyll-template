@@ -2,8 +2,8 @@
 title: A blog about lorem ipsum dolor sit amet
 description: A blog about lorem ipsum dolor sit amet
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://www.abyshakes.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
-url: "http://localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "http://www.abyshakes.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+#url: "http://localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: abyshakes
@@ -11,7 +11,11 @@ user_description: full stack web developer at nextbigthing.in
 user_title: full stack web developer
 email: abyshakes@gmail.com
 twitter_username: abyshakes
+<<<<<<< HEAD
 github_username: abyshakes
+=======
+github_username: abyshakes 
+>>>>>>> 35277fc7bd1f1cba5a29bb22cefa4df462a22cdf
 gplus_username:  AbhishekPrabhu
 disqus_username: abyshakes
 
